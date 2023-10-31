@@ -98,6 +98,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or feedback, please feel free to reach out to us at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or feedback, please feel free to reach out to us at [dmmoody@gmail.com](mailto:your.email@example.com).
 
 Happy RSS feed aggregating! 🚀
